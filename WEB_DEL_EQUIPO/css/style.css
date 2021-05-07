@@ -2034,19 +2034,6 @@ img.zoom {
 	/*-- editado --*/
 	padding: 60px 0px;
 }
-#recupera_contraseña {
-	text-align: right;
-	padding: 0px 0px 20px 500px;
-
-}
-
-#acepto_terminos {
-	text-align: left;
-	padding: 0px 0px 20px 20px;
-
-}
-
-
 
 .testimonial .titlepage {
 	text-align: center;
@@ -2326,7 +2313,36 @@ ul.contant_icon li img {
 	color: #0fc690
 }
 
+/*---------------------------------------------------------------------
+    Inicio de sesion
+---------------------------------------------------------------------*/
+#olvida_contraseña {
 
+	padding: 10px 50px 50px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	align-items: center;
+	flex-wrap: wrap;
+
+}
+#registrarme {
+
+	padding: 0px 50px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	align-items: center;
+	flex-wrap: wrap;
+
+}
+/*---------------------------------------------------------------------
+    Registro
+---------------------------------------------------------------------*/
+
+#acepto_terminos {
+	padding: 0px 0px 20px 20px;
+}
 /*---------------------------------------------------------------------
     ener page css
 ---------------------------------------------------------------------*/
