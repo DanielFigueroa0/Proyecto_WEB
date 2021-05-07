@@ -2034,6 +2034,19 @@ img.zoom {
 	/*-- editado --*/
 	padding: 60px 0px;
 }
+#recupera_contraseña {
+	text-align: right;
+	padding: 0px 0px 20px 500px;
+
+}
+
+#acepto_terminos {
+	text-align: left;
+	padding: 0px 0px 20px 20px;
+
+}
+
+
 
 .testimonial .titlepage {
 	text-align: center;
