@@ -370,3 +370,22 @@ $(function () {
 
 
 });
+//Eventos log in y registro
+
+	$("#enviar").click(function(event){
+		event.preventDefault();
+		alert("Usuario Registrado exitosamente");
+
+	})
+
+	$("#EnvioMensaje").click(function(event){
+		event.preventDefault();
+		alert("Mensaje enviado");
+
+	})
+
+
+	$("#LogIn").click(function(event){
+		event.preventDefault();
+		$("#log").replaceWith("<p width='50' height='50'> Nombre<br/>Usuario  </p>")
+	})
